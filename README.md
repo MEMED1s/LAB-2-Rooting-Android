@@ -98,3 +98,14 @@ Ces manipulations doivent rester dans un **labo autorisé uniquement**.
 
 À la fin du lab, l’AVD doit être remis à zéro pour supprimer les données et les modifications faites pendant le test.
 
+## 14. autre simulation de DivaApp.apk
+
+<img width="1918" height="912" alt="im4" src="https://github.com/user-attachments/assets/09577219-9a5d-448a-bf75-e1ab63f996d9" />
+
+<img width="408" height="680" alt="im5" src="https://github.com/user-attachments/assets/98dff448-2632-49e7-b577-2458177ade3a" />
+
+<img width="1418" height="146" alt="im6" src="https://github.com/user-attachments/assets/91f96418-0498-42e2-a9a2-2a53f46bd666" />
+
+
+
+
